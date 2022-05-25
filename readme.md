@@ -1,0 +1,1 @@
+Segunda Landing page feita para ajudar a promover as vendas de chocolate da minha mãe, como apenas sei back-end por enquanto, apenas posso fazer isso. Mas meu objetivo é estudar front e back para desenvolver um site completo e ajudá-la nas vandas.
